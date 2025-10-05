@@ -1,3 +1,5 @@
-# odin-recipes
+# Odin Recipes
 
-## This is a practice project
+This is an exercise project for The Odin Project.
+
+[Live Preview](https://farzad-d.github.io/odin-recipes/)
